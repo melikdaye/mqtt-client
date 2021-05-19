@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b00a057-3f67-4fd1-9ccf-641f282b236b" name="Default Changelist" comment="" />
+    <list default="true" id="0b00a057-3f67-4fd1-9ccf-641f282b236b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Class/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Class/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hook/Receiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hook/Receiver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hook/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hook/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rihPiIyfhTpCxQICsnS6D1Dr9H" />
   <component name="ProjectViewState">
@@ -48,6 +67,7 @@
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="start" />
       <node-interpreter value="project" />
+      <package-manager value="yarn" />
       <envs />
       <method v="2" />
     </configuration>
@@ -65,10 +85,26 @@
       <option name="presentableId" value="Default" />
       <updated>1619464797835</updated>
       <workItem from="1619464800248" duration="11484000" />
+      <workItem from="1619810953240" duration="27081000" />
+      <workItem from="1620853310348" duration="2961000" />
+      <workItem from="1621017592044" duration="13802000" />
+      <workItem from="1621355679532" duration="8763000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

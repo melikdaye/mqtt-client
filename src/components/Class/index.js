@@ -3,6 +3,7 @@ import Connection from "./Connection";
 import Publisher from "./Publisher";
 import Subscriber from "./Subscriber";
 import Receiver from "./Receiver";
+import UserReceiver from "./UserReceiver";
 import mqtt from "mqtt";
 
 export const QosOption = createContext([]);
@@ -119,6 +120,7 @@ class ClassMqtt extends React.Component {
           <Publisher publish={this.handlePublish} />
         </QosOption.Provider>
         <Receiver messages={this.state.messages}></Receiver>
+        <UserReceiver messages={this.state.messages}></UserReceiver>
       </>
     );
   }
